@@ -1,4 +1,4 @@
-package org.springframework.samples.petclinic.model;asd
+package org.springframework.samples.petclinic.model;asda
 
 import java.util.Locale;
 import java.util.Set;
